@@ -8,8 +8,8 @@ Hi, I'm **Chirag Pahlajani**, a passionate **Full Stack Developer** with **2+ ye
       <a href="mailto:chiragpahlajani43@gmail.com">chiragpahlajani43@gmail.com</a>
     </span>
 
-<span style="display:inline-flex;align-items:center;gap:6px;height:20px;">
-      <img src="https://cdn-icons-png.flaticon.com/128/2111/2111432.png" width="20" height="20" />
+<span style="display:inline-flex;align-items:center;gap:6px;height:20px;background-color:#000000;border-radius:8px;padding:4px;">
+      <img src="https://cdn.simpleicons.org/github/white" width="20" height="20"  />
       <a href="https://github.com/ChiragPahlajani">GitHub</a>
     </span>
 
